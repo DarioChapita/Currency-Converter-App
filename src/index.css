@@ -1,0 +1,22 @@
+/* Estilos generales */
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.5; /* Asegura un espaciado adecuado entre líneas de texto */
+}
+
+/* Estilos para código */
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  monospace;
+  padding: 2px 4px; /* Agrega espacio alrededor del código para una mejor legibilidad */
+  background-color: #f5f5f5; /* Fondo ligeramente diferente para resaltar el código */
+  border: 1px solid #ddd; /* Borde suave para separar el código del texto circundante */
+  border-radius: 4px; /* Bordes redondeados para un aspecto más agradable */
+  font-size: 90%; /* Reducción del tamaño de fuente para que el código sea menos prominente */
+}
+

@@ -1,11 +1,15 @@
 # Currency-Converter-App
-Welcome to the Currency Converter App! This application allows you to convert currencies using the ExchangeRate API. Please follow the steps below to set up and use the app.
+Welcome to the Currency Converter App!
+This application allows you to convert currencies using the ExchangeRate API. 
+Please follow the steps below to set up and use the app.
 
 Prerequisites
 * Before you begin, please make sure you have the following:
 
 Node.js and npm (Node Package Manager) installed on your machine.
-An API Key from the ExchangeRate API. You can obtain it from https://www.exchangerate-api.com.
+An API Key from the ExchangeRate API.
+You can obtain it from https://www.exchangerate-api.com.
+
 Getting Started
 
 * Clone the Repository
@@ -18,7 +22,8 @@ Add Your API Key in the file constansts.ts
 * Start the App
 
 npm run start
-This will open the app in your default web browser. If it doesn't automatically open, you can access the app by navigating to http://localhost:3000 in your browser.
+This will open the app in your default web browser.
+If it doesn't automatically open, you can access the app by navigating to http://localhost:3000 in your browser.
 
 * How to Use
 Select Currencies
