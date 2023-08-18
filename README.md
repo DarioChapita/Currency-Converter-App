@@ -1,5 +1,6 @@
 # Currency-Converter-App
-Welcome to the Currency Converter App! This application allows you to convert currencies using the ExchangeRate API. Please follow the steps below to set up and use the app.
+Welcome to the Currency Converter App! 
+This application allows you to convert currencies using the ExchangeRate API. Please follow the steps below to set up and use the app.
 
 Prerequisites
 * Before you begin, please make sure you have the following:
