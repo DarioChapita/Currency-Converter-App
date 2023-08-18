@@ -13,7 +13,6 @@ You can obtain it from https://www.exchangerate-api.com.
 Getting Started
 
 * Clone the Repository
-
 Navigate to the project directory and install the required dependencies:
 
 npm install --legacy-peer-deps
